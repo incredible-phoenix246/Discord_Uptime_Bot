@@ -24,8 +24,8 @@ A Discord bot that monitors the uptime of web servers and sends notifications wh
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/discord-website-uptime.git
-   cd discord-website-uptime
+   git clone [https://github.com/yourusername/discord-website-uptime.git](https://github.com/incredible-phoenix246/Discord_Uptime_Bot.git)
+   cd Discord_Uptime_Bot
    ```
 
 2. **Create a virtual environment** (recommended):
