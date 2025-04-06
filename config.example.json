@@ -1,0 +1,5 @@
+{
+    "notification_channel": 123,
+    "role_to_mention": 123,
+    "secs_between_ping": 60
+}
